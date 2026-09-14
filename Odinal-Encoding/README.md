@@ -1,4 +1,4 @@
-# Day 26 — Ordinal Encoding & Label Encoding
+#  Ordinal Encoding & Label Encoding
 
 This notebook explains how categorical data can be converted into numerical values using **Ordinal Encoding** and **Label Encoding**.
 
